@@ -1,0 +1,9 @@
+<xml>
+	<config>
+		<debuglevel>DEBUG</debuglevel>
+		<maindirectory>C:\JAVAELILEX\SFV</maindirectory>
+		<versionningtype>complexe</versionningtype><!--simple,complexe--><!--simple for 1, 2 etc. complexe for 1.0, 1.1 etc.-->
+		<maxsubversion>9</maxsubversion>
+		<versionfiledirectoryname>_Old</versionfiledirectoryname>
+	</config>
+</xml>
